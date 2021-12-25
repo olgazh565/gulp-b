@@ -1,2 +1,2 @@
-# gulp-b
-node.js
+# gulp-boilerplate
+gulp
